@@ -2,7 +2,7 @@
 # My Academic Profile
 
 ## Name
-Dr. Ashish Jain
+Dr. Ashish Kumar Jain
 
 ## Department
 Computer Sc. & Engineering
